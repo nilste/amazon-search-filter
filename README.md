@@ -1,1 +1,3 @@
-# amazon-search-filter
+# Amazon Search Filter
+
+It's common practice by sellers on Amazon to price their items competitively only to add a hefty shipping fee. This simple [Tampermonkey](https://en.wikipedia.org/wiki/Tampermonkey) script solves the issue by hiding all results with shipping fees. It's a drastic solution since it mostly likely filters out valid products but it solves the problem and can be a valid option when looking for great deals.
